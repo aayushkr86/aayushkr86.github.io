@@ -45,9 +45,9 @@ $(document).ready(function(){
          });
     });
 
- $("#toppage").click(function() {
-  $("html, body").animate({ scrollTop: "0px" }, 3000);
- });
+ //$("#top").click(function() {
+  //$("html,body").animate({ scrollTop: "0px" }, 3000);
+ //});
 
 
 
