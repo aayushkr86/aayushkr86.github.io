@@ -2,6 +2,10 @@ body{
     background-color:lightgrey;
     font-family: "Times New Roman";
 }
+html,body{
+    width:100%;
+    overflow-x: hidden;
+}
 
 .jumbotron{
     padding:70px 30px 70px 30px;
